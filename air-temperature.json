@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "stations": [
+            {
+                "id": "S117",
+                "device_id": "S117",
+                "name": "Banyan Road",
+                "location": {
+                    "latitude": 1.256,
+                    "longitude": 103.679
+                }
+            },
+            {
+                "id": "S50",
+                "device_id": "S50",
+                "name": "Clementi Road",
+                "location": {
+                    "latitude": 1.3337,
+                    "longitude": 103.7768
+                }
+            },
+            {
+                "id": "S43",
+                "device_id": "S43",
+                "name": "Kim Chuan Road",
+                "location": {
+                    "latitude": 1.3399,
+                    "longitude": 103.8878
+                }
+            },
+            {
+                "id": "S44",
+                "device_id": "S44",
+                "name": "Nanyang Avenue",
+                "location": {
+                    "latitude": 1.34583,
+                    "longitude": 103.68166
+                }
+            },
+            {
+                "id": "S60",
+                "device_id": "S60",
+                "name": "Sentosa",
+                "location": {
+                    "latitude": 1.25,
+                    "longitude": 103.8279
+                }
+            },
+            {
+                "id": "S104",
+                "device_id": "S104",
+                "name": "Woodlands Avenue 9",
+                "location": {
+                    "latitude": 1.44387,
+                    "longitude": 103.78538
+                }
+            }
+        ],
+        "reading_type": "RH 1M F",
+        "reading_unit": "percentage"
+    },
+    "items": [
+        {
+            "timestamp": "2023-12-12T10:10:00+08:00",
+            "readings": [
+                {
+                    "station_id": "S117",
+                    "value": 31
+                },
+                {
+                    "station_id": "S50",
+                    "value": 32.1
+                },
+                {
+                    "station_id": "S43",
+                    "value": 31.5
+                },
+                {
+                    "station_id": "S44",
+                    "value": 32.4
+                },
+                {
+                    "station_id": "S60",
+                    "value": 30.2
+                },
+                {
+                    "station_id": "S104",
+                    "value": 32
+                }
+            ]
+        }
+    ],
+    "api_info": {
+        "status": "healthy"
+    }
+}
